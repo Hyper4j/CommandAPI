@@ -1,0 +1,6 @@
+name: CommandAPI
+main: com.hyperstudio.CommandAPI.Main
+version: 1.0.0
+author: Hyper4j
+description: Help for Using Java Developers
+api-version: 1.19
