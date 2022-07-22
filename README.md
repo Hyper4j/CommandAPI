@@ -2,6 +2,9 @@
 마인크래프트 플러그인 개발자들을 위한, 커맨드API
 플러그인 및 API 사용버전: 1.12.2 이상
 
+Maven/Gradle 등에서 API 사용을 원할 시에
+로컬 저장소에서 Jar 파일을 등록하여 사용하세요!
+
 #### 사용방법:
 ```java
 CommandAPI api = new CommandAPI(this);
